@@ -55,13 +55,13 @@ def update():
 def logo():
     os.system("clear")
     print("\033[94m┌────────────────────────────────────────┐".center(columns+5))
-                                  oooooooooo.     .o  ooooooooo.   ooooooooooooo   .oooooo.   
-                                   `888'   `Y8b  o888  `888   `Y88. 8'   888   `8  d8P'  `Y8b  
-                                    888      888  888   888   .d88'      888      888      888 
-                                    888      888  888   888ooo88P'       888      888      888 
-                                    888      888  888   888              888      888      888 
-                                    888     d88'  888   888              888      `88b    d88' 
-                                  o888bood8P'   o888o o888o            o888o      `Y8bood8P'  
+                   print("\033[94moooooooooo.     .o  ooooooooo.   ooooooooooooo   .oooooo.   
+                    print("\033[94m`888'   `Y8b  o888  `888   `Y88. 8'   888   `8  d8P'  `Y8b  
+                     print("\033[94m888      888  888   888   .d88'      888      888      888 
+                     print("\033[94m888      888  888   888ooo88P'       888      888      888 
+                     print("\033[94m888      888  888   888              888      888      888 
+                     print("\033[94m888     d88'  888   888              888      `88b    d88' 
+                    print("\033[94mo888bood8P'   o888o o888o            o888o      `Y8bood8P'  
                                                             
                                                             
                                                             
