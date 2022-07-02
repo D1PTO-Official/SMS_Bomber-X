@@ -21,4 +21,5 @@ Y8888D' Y888888P 88         YP     `Y88P'
                                            
                                            
 print(logo)
-print(a+b)
+print(a)
+print(b)
