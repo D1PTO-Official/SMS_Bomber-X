@@ -7,7 +7,7 @@ purple="\033[0;35m"       # Purple
 cyan="\033[0;36m"         # Cyan
 white="\033[0;37m"        # White
 
-a="DIPTO VAU" \n
+a="DIPTO VAU"
 b="FUCK YOUR LIFE"
 
 logo=red+str("""
