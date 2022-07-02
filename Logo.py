@@ -7,7 +7,7 @@ purple="\033[0;35m"       # Purple
 cyan="\033[0;36m"         # Cyan
 white="\033[0;37m"        # White
 
-a="DIPTO VAU"
+a="DIPTO VAU"\n
 b="FUCK YOUR LIFE"
 
 logo=red+str("""
@@ -19,5 +19,6 @@ d8888b. d888888b d8888b. d888888b  .d88b.
 Y8888D' Y888888P 88         YP     `Y88P'
 """)  
                                            
-print(a+b)                                           
+                                           
 print(logo)
+print(a+b)
