@@ -3,7 +3,7 @@ import sys
 red="\033[0;31m"          # Red
 green="\033[0;32m"        # Green
 purple="\033[0;35m"       # Purple
-
+os.system("clear")
 us=str(input(green+"Enter Your Username :"))
 pas=str(input(purple+"Enter Your Password :"))
 
