@@ -12,10 +12,10 @@ sex="TFG"
 
 if us==fuck and pas==sex:
 	os.system("clear")
-	print(green+"[✓] Your Login Sucses-!!")
+	print(green+"[✓] Your Login Sucses Bro-!!😍")
 	pass
 else:
-	print(red+"[x] Wrong Password-!")
+	print(red+"[x] Wrong Password Please Try Again-!😭")
 	sys.exit()
 
 black="\033[0;30m"        # Black
@@ -28,8 +28,8 @@ cyan="\033[0;36m"         # Cyan
 white="\033[0;37m"        # White
 
 
-a="Name      : IT'Z DIPTO VAU"
-b="Status    : FUCK YOUR LIFE"
+a="Name      : IT'Z DIPTO VAU 😴✌️"
+b="Status    : FUCK YOUR LIFE 👅💦"
 c="Facebook  : https://www.facebook.com/ITZ.DIPTO.TFG.KING.OKAY"
 
 logo=red+str("""
@@ -61,14 +61,14 @@ sex="FUCKER"
 
 if us==fuck and pas==sex:
 	os.system("clear")
-	print(green+"[✓] Your Login Sucses-!!")
+	print(green+"[✓] Your Programming Enter Sucses-!!")
 	pass
 else:
 	print(red+"[x] Wrong Password-!")
 	sys.exit()
 	
 print(red+"------------------------------------------------------------")
-print(green+"Remember This Line : IT'Z D1PTO V4U FUCK YOUR LIFE")
-print(red+"_______________________________________________________")
-print(purple+"V4U Ar Attitude   : Fuck Your System Okay Bbz -!")
-print(red+"________________________________________________________")
+print(green+"Remember This Line : IT'Z D1PTO V4U FUCK YOUR LIFE👅💦🖕")
+print(red+"____________________________________________________________")
+print(purple+"V4U Ar Attitude    : Fuck Your System Okay Bbz -!💋😋💦")
+print(red+"____________________________________________________________")
